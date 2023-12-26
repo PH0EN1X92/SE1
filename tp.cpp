@@ -8,5 +8,7 @@ int main()
     cin >> x;
     cout << "y = "; 
     cin >> y;
+    cout << x << "+" << y << "=" << x+y << endl;
+
     return 0; 
 }
